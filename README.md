@@ -1,2 +1,2 @@
-# star2
+# tea.yaml
 tea community
