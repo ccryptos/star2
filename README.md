@@ -1,2 +1,8 @@
 # tea.yaml
 tea community
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xeCE74099F94C58Cc156DEA9193133958AF6C1729'
+quorum: 1
